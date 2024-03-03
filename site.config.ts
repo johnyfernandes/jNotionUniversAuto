@@ -49,6 +49,7 @@ export default siteConfig({
   pageUrlOverrides: {
     '/proposta': 'f50b9bfc25e9458790849b53bcef94a6',
     '/imagens-da-aplicao': '588a5c15b65f421db81f2195638e7237',
+    '/api--desguaces-cortes': 'a5cd53ff3fcc4433815ff71b345294bf',
   },
 
   // whether to use the default notion navigation style or a custom one with links to
